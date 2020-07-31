@@ -4,7 +4,7 @@
   "description": "",
   "main": "default_stub.js",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "postcss-js": "^2.0.3",
     "tailwindcss": "^1.4.6",
     "tailwindcss-language-server": "0.0.1"
